@@ -88,7 +88,7 @@ This GitHub profile documents my cybersecurity journey through practical labs, t
 - Fortinet Certified Fundamentals in Cybersecurity (NSE 1 & NSE 2)
 - Fortinet Certified Associate in Cybersecurity (NSE 3)
 - Fortinet Certified Professional in Network Security – FortiOS (NSE 4)
-- Fortinet Certified Professional in SASE – (NSE 6)
+- Fortinet Certified Professional in SASE – FortiClient EMS (NSE 6)
 
 ### Google
 - Google Cybersecurity Professional Certificate
