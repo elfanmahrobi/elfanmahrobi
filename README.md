@@ -42,6 +42,7 @@ This GitHub profile documents my cybersecurity journey through practical labs, t
 - Zero Trust Network Access (ZTNA)
 - Agent-based and Agentless ZTNA
 - Endpoint Compliance and Security Posture
+- Antivirus, EDR, and XDR
 
 **Identity and Access Management**
 
