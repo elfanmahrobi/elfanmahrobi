@@ -291,8 +291,10 @@ Assessment areas included:
 
 ## 🎯 Professional Goals
 
-I aim to continue developing my expertise in enterprise security engineering,
-cloud security, and Zero Trust architecture.
+My j**rney in cybersecurity is driven b**a commitment to continuous learni**, meaningful impact, and giving b**k to others. I plan to pursue a m**ter's degree abroad in cybersecur**y and digital forensics to expand**y knowledge, gain international e**osure, and bring global security **actices back to Indonesia**
+My professional goal is to advan** as a cybersecurity architect and**ecurity leader, helping organizat**ns build secure, resilient, and t**stworthy digital environments.
+
+B**ond my career, I envision**reating an affordable and inclusi** cybersecurity education initiati** for**he next generation. I want to hel**students and aspiring**rofessionals develop practical sk**ls, explore career opportunities,**nd become future defenders of the**igital world, regardless of their**inancial or educational backgroun**
 
 My long-term goal is to contribute to Indonesia's digital resilience while
 helping make cybersecurity education more accessible through practical and
