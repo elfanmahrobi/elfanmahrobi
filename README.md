@@ -1,6 +1,6 @@
 # Hi, I'm Elfan Mahrobi 👋
 
-### Cybersecurity | Security Engineer | Network & Cloud Security | Defensive | SOC | DevSecOps | Security Analyst | Digital Forensics
+### Cybersecurity | Network & Cloud Security | Defensive | SOC | DevSecOps | Security Analyst | Digital Forensics
 
 ## 👨‍💻 About Me
 
