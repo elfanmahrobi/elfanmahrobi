@@ -153,6 +153,50 @@ secure internet access, and high availability.
 🔗 **Project Repository:**  
 [github.com/elfanmahrobi/fortigate-enterprise-security-lab](https://github.com/elfanmahrobi/fortigate-enterprise-security-lab)
 
+### 🔍 SIEM & SOC Home Lab
+
+Built and documented a practical Security Information and Event Management (SIEM) and Security Operations Center (SOC) home lab using the Elastic Stack to demonstrate centralized log collection, security monitoring, threat detection, and incident investigation.
+
+**Technical Scope:**
+
+- Deployed Elasticsearch for centralized security log storage and indexing
+- Configured Logstash for log ingestion, parsing, and normalization
+- Implemented Kibana dashboards for security monitoring and event analysis
+- Integrated Windows security and system event logs
+- Integrated Linux authentication and system logs
+- Built a dedicated virtual lab environment using Ubuntu Server and Kali Linux
+- Simulated security events and attacker activities for detection testing
+- Developed detection use cases for suspicious authentication and system activities
+- Documented the end-to-end SIEM log collection and analysis workflow
+- Designed a roadmap for SOAR automation and incident response integration
+- Planned future integration with TheHive for incident and case management
+- Planned future integration with MISP for threat intelligence enrichment
+- Mapped security detection use cases to the MITRE ATT&CK framework
+- Created technical documentation, architecture diagrams, and validation procedures
+
+**Skills Demonstrated:**
+
+- SIEM Architecture and Implementation
+- Security Operations Center Fundamentals
+- Elastic Stack Administration
+- Elasticsearch Log Storage and Indexing
+- Logstash Pipeline Configuration
+- Kibana Dashboard and Visualization
+- Windows and Linux Log Analysis
+- Centralized Security Log Management
+- Security Monitoring and Event Investigation
+- Detection Engineering
+- Threat Detection Use-Case Development
+- Attack Simulation and Detection Validation
+- Incident Investigation
+- MITRE ATT&CK Mapping
+- SOAR Architecture Planning
+- Threat Intelligence Integration Planning
+- Technical Documentation and Lab Development
+
+🔗 **Project Repository:**  
+[github.com/elfanmahrobi/siem-soc-homelab](https://github.com/elfanmahrobi/siem-soc-homelab)
+
 
 ### Enterprise Secure Service Edge Implementation
 
