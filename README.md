@@ -291,14 +291,13 @@ Assessment areas included:
 
 ## 🎯 Professional Goals
 
-My j**rney in cybersecurity is driven b**a commitment to continuous learni**, meaningful impact, and giving b**k to others. I plan to pursue a m**ter's degree abroad in cybersecur**y and digital forensics to expand**y knowledge, gain international e**osure, and bring global security **actices back to Indonesia**
-My professional goal is to advan** as a cybersecurity architect and**ecurity leader, helping organizat**ns build secure, resilient, and t**stworthy digital environments.
+I am committed to becoming a lifelong learner and continuously expanding my expertise in enterprise security engineering, cloud security, Zero Trust architecture, security operations, threat detection, and digital forensics.
 
-B**ond my career, I envision**reating an affordable and inclusi** cybersecurity education initiati** for**he next generation. I want to hel**students and aspiring**rofessionals develop practical sk**ls, explore career opportunities,**nd become future defenders of the**igital world, regardless of their**inancial or educational backgroun**
+One of my major goals is to pursue a master's degree abroad in cybersecurity and digital forensics. Through international education, I hope to gain advanced knowledge, global perspectives, and practical experience that will support my journey toward becoming a cybersecurity architect and security leader.
 
-My long-term goal is to contribute to Indonesia's digital resilience while
-helping make cybersecurity education more accessible through practical and
-affordable IT security training.
+In the long term, I want to contribute to Indonesia's digital resilience by building an accessible and affordable cybersecurity education platform for the next generation. The platform would provide practical training, hands-on laboratories, mentorship, and structured learning opportunities for students and aspiring professionals, especially those with limited access to quality technology education.
+
+By combining continuous learning, international education, professional experience, and knowledge sharing, I hope to empower future cybersecurity professionals and contribute to a safer, more inclusive, and more resilient digital future.
 
 ## 📫 Connect with Me
 
