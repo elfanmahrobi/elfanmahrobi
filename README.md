@@ -80,7 +80,9 @@ This GitHub profile documents my cybersecurity journey through practical labs, t
 
 ### CompTIA
 - CompTIA Security+
-- CompTIA Blockchain for Business Leaders
+
+### EC-Council
+- Certified Blockchain Professional - Business Leads
 
 ### Microsoft Azure
 - Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -98,6 +100,9 @@ This GitHub profile documents my cybersecurity journey through practical labs, t
 
 ### Alibaba Cloud
 - Alibaba Cloud Certified Associate (ACA) in Cloud Security
+
+### Red Team Leaders
+- Certified Cybersecurity Educator Professional (CCEP)
 
 ### BNSP – Indonesian Professional Certification Authority
 - Junior Network Administrator
