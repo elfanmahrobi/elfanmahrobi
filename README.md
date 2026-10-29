@@ -197,6 +197,49 @@ Built and documented a practical Security Information and Event Management (SIEM
 🔗 **Project Repository:**  
 [github.com/elfanmahrobi/siem-soc-homelab](https://github.com/elfanmahrobi/siem-soc-homelab)
 
+## 🔍 SOC SSH Brute Force Detection & Incident Response Lab
+
+Built and documented a Security Operations Center (SOC) homelab using the ELK Stack to demonstrate the complete detection and incident response lifecycle for SSH brute-force attacks against a Linux server.
+
+### Technical Scope:
+
+- Designed a SOC monitoring lab with Kali Linux, Ubuntu Server, and ELK Stack
+- Simulated SSH brute-force attacks using Hydra from an attacker workstation
+- Configured Filebeat to collect and forward Linux authentication logs
+- Centralized security events in Elasticsearch for analysis and monitoring
+- Created Kibana searches and visualizations for failed SSH authentication events
+- Developed detection logic to identify potential brute-force activity
+- Investigated attack timelines and authentication failures using Kibana Discover
+- Validated attacker source IP addresses and attack behavior patterns
+- Performed security event triage and alert validation
+- Documented incident handling activities from detection through recovery
+- Produced technical evidence, screenshots, and incident response documentation
+- Mapped attack activities to SOC monitoring and threat detection workflows
+
+### Skills Demonstrated:
+
+- Security Information and Event Management (SIEM)
+- ELK Stack Administration
+- Elasticsearch & Kibana Operations
+- Filebeat Log Collection
+- Linux Security Monitoring
+- SSH Authentication Analysis
+- Threat Detection Engineering
+- Brute-Force Attack Detection
+- Log Correlation and Analysis
+- Incident Investigation
+- Incident Response Lifecycle
+- Security Event Triage
+- Root Cause Analysis
+- Blue Team Operations
+- Security Monitoring and Reporting
+
+### Technologies:
+
+`ELK Stack` • `Elasticsearch` • `Kibana` • `Filebeat` • `Ubuntu Linux` • `Kali Linux` • `Hydra` • `Linux Authentication Logs` • `SSH`
+
+🔗 **Project Repository:**  
+[github.com/elfanmahrobi/soc-ssh-bruteforce-detection-elk-lab](https://github.com/elfanmahrobi/soc-ssh-bruteforce-detection-elk-lab)
 
 ### Enterprise Secure Service Edge Implementation
 
